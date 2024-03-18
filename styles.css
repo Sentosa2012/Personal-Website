@@ -19,5 +19,12 @@
 .body-content {
   width: 40%;
   height: 100px;
-  align-items: center;
+}
+
+.body-header-text {
+  text-align: center;
+}
+
+.body-text {
+  text-align: center;
 }
